@@ -4,7 +4,7 @@ This project is used as a capstone project for [Eskwelabs](https://www.eskwelabs
 ## Setup
 Run 
 ```s
-conda env create -f <environment-name>.yml
+conda env create -f crime-prediction.yml
 ```
 to create a virtual environment.
 You may also use the `requirements.txt` to install the dependencies.
